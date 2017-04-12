@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    >
+    <ImageView
+        android:id="@+id/layout_Image"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_margin="10dp" />
+        <TextView
+            android:id="@+id/layout_friendName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="#141414"
+            android:layout_marginStart="75dp"
+            android:layout_marginTop="12dp"
+            android:text="@string/tab_weixin"
+            />
+        <TextView
+            android:id="@+id/layout_friendLastRecord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="你吃了没"
+            android:layout_alignStart="@+id/layout_friendName"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:textColor="#949595"
+            />
+        <TextView
+            android:id="@+id/layout_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@+id/layout_friendName"
+            android:layout_marginEnd="14dp"
+            android:text="11:25"
+            android:textSize="14sp"
+            />
+
+</RelativeLayout>

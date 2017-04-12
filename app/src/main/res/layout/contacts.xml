@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="#FFF">
+    <ImageView
+        android:id="@+id/layout_contacts_Image"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_margin="6dp" />
+    <TextView
+        android:id="@+id/layout_contacts_friendName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#141414"
+        android:layout_marginStart="60dp"
+        android:layout_centerVertical="true"
+        android:text="@string/tab_weixin"
+        />
+</RelativeLayout>

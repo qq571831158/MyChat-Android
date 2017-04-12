@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/find_pressed.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/find_pressed.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/main_activity_search_pressed.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/main_activity_search_pressed.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/main_activtiy_add_normal.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/main_activtiy_add_normal.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/weixin_normal.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/weixin_normal.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/contact_list_normal.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/contact_list_normal.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/default_face.9.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/default_face.9.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/contact_list_pressed.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/contact_list_pressed.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/default_image.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/default_image.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/main_activity_search_normal.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/main_activity_search_normal.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/weixin_pressed.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/weixin_pressed.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/login_app.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/login_app.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/profile_pressed.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/profile_pressed.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/main_activtiy_add_pressed.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/main_activtiy_add_pressed.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/find_normal.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/find_normal.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/profile_normal.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/profile_normal.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chatting_biaoqing_btn_normal.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/res/merged/debug/drawable-xxhdpi/top_back_icon.png",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/res/drawable-xxhdpi/top_back_icon.png"
+    }
+]

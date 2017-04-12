@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.apple.mychatqq">
+
+    <!-- 访问网络的权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 文件读取的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 向SD卡中创建或者删除的权限。 -->
+    <uses-permission android:name="andorid.permission.MONUN_UNMOUNT_FILESYSTEMS" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activity.main.MainActivity"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name=".activity.contacts.DetailinfoActivity"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name=".activity.contacts.ChattingActivity"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name=".activity.main.LoginActivity"
+            android:theme="@style/Theme.Design.NoActionBar"></activity>
+        <activity
+            android:name=".activity.main.LogoActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name=".activity.main.WebsocketService">
+            <intent-filter>
+                <action android:name="WebsocketService" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name=".activity.contacts.ChattingActivity$UserinfoReceiver">
+            <intent-filter>
+                <action android:name="getuserinfo" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".activity.profile.ProfileFragment$UserinfoReceiver">
+            <intent-filter>
+                <action android:name="getuserinfo" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".activity.weixin.WeixinFragment$UserinfoReceiver">
+            <intent-filter>
+                <action android:name="getuserinfo" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".activity.main.WebsocketService$sendMessageReceiver">
+            <intent-filter>
+                <action android:name="send_message" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".activity.contacts.ChattingAdapter$ViewDismissReceiver">
+            <intent-filter>
+                <action android:name="view_dismiss" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".activity.profile.SettingActivity"></activity>
+    </application>
+
+</manifest>

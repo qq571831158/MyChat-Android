@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_chatting"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.apple.mychatqq.activity.contacts.ChattingActivity">
+    <ListView
+        android:id="@+id/layout_chatting_list"
+        android:layout_width="match_parent"
+        android:layout_height="522dp"
+        android:background="@color/backgroundColor"
+        android:divider="@null"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll">
+    </ListView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#e6e6e6"
+        android:layout_below="@+id/layout_chatting_list"
+        android:layout_alignParentStart="true">
+        <ImageView
+            android:id="@+id/layout_chatting_image1"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_margin="6dp"
+            android:layout_marginLeft="4dp"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/chatting_setmode_voice_btn_normal"/>
+        <EditText
+            android:layout_width="222dp"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/layout_chatting_image1"
+            android:layout_alignParentTop="true"
+            android:id="@+id/layout_chatting_editText"
+            android:imeOptions="actionSend"
+            android:maxLines="1" />
+        <ImageView
+            android:id="@+id/layout_chatting_image3"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/add"
+            />
+        <ImageView
+            android:id="@+id/layout_chatting_image2"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_toLeftOf="@id/layout_chatting_image3"
+            android:background="@drawable/add"
+            />
+    </RelativeLayout>
+
+
+</RelativeLayout>

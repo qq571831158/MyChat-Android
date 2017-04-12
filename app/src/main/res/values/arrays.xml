@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list1">
+        <item>新消息提醒</item>
+        <item>勿扰模式</item>
+        <item>聊天</item>
+        <item>隐私</item>
+        <item>通用</item>
+        <item>账号与安全</item>
+    </string-array>
+
+    <string-array name="list2">
+        <item>关于微信</item>
+        <item>帮助与反馈</item>
+        <item>退出</item>
+    </string-array>
+    <string-array name="exit">
+        <item>退出当前账号</item>
+        <item>退出微信</item>
+    </string-array>
+</resources>

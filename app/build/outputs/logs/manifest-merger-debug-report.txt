@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#andorid.permission.MONUN_UNMOUNT_FILESYSTEMS
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:10:22-81
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:15:22-69
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:16:22-81
+application
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:17:5-80:19
+MERGED from [com.android.support:design:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:20:9-41
+	android:supportsRtl
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:21:9-35
+	android:allowBackup
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.example.apple.mychatqq.activity.main.MainActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:23:9-25:50
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:24:13-55
+activity#com.example.apple.mychatqq.activity.contacts.DetailinfoActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:26:9-28:50
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:27:13-65
+activity#com.example.apple.mychatqq.activity.contacts.ChattingActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:29:9-31:50
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:30:13-63
+activity#com.example.apple.mychatqq.activity.main.LoginActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:32:9-34:72
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:34:13-60
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:33:13-56
+activity#com.example.apple.mychatqq.activity.main.LogoActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:36:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:41:27-74
+service#com.example.apple.mychatqq.activity.main.WebsocketService
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:45:9-51:19
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:45:18-64
+intent-filter#WebsocketService+android.intent.category.DEFAULT
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:46:13-50:29
+action#WebsocketService
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:47:17-59
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:47:25-56
+category#android.intent.category.DEFAULT
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:49:27-73
+receiver#com.example.apple.mychatqq.activity.contacts.ChattingActivity$UserinfoReceiver
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:53:9-57:20
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:53:19-86
+intent-filter#getuserinfo
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:54:13-56:29
+action#getuserinfo
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:55:17-54
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:55:25-51
+receiver#com.example.apple.mychatqq.activity.profile.ProfileFragment$UserinfoReceiver
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:58:9-62:20
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:58:19-84
+receiver#com.example.apple.mychatqq.activity.weixin.WeixinFragment$UserinfoReceiver
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:63:9-67:20
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:63:19-82
+receiver#com.example.apple.mychatqq.activity.main.WebsocketService$sendMessageReceiver
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:68:9-72:20
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:68:19-85
+intent-filter#send_message
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:69:13-71:29
+action#send_message
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:70:17-55
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:70:25-52
+receiver#com.example.apple.mychatqq.activity.contacts.ChattingAdapter$ViewDismissReceiver
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:73:9-77:20
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:73:19-88
+intent-filter#view_dismiss
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:74:13-76:29
+action#view_dismiss
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:75:17-55
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:75:25-52
+activity#com.example.apple.mychatqq.activity.profile.SettingActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:79:9-79
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml:79:19-67
+uses-sdk
+INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/AndroidManifest.xml:20:5-44
+MERGED from [com.yalantis:phoenix:1.2.3] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.yalantis/phoenix/1.2.3/AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:26:9-47

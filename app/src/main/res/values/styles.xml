@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    　<!-- 自定义的ActionBar Style-->
+    <style name="CustomActionBarStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:contentInsetEnd">0dp</item><!--右边距为0-->
+        <item name="android:contentInsetStart">0dp</item><!--左边距为0-->
+    </style>
+    　　<!-- 自定义的Theme-->
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarSize">50dip</item><!--设置ActionBar的高度-->
+        <item name="android:actionBarStyle">@style/CustomActionBarStyle</item>
+        <item name="android:statusBarColor">#e8e9e8</item><!--效果和colorPrimary一样-->
+        <!--<item name="android:windowLightStatusBar">true</item>&lt;!&ndash;设置StatusBar上Icon高亮&ndash;&gt;-->
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+
+
+    <style name="loadingDialogStyle" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 对话框是否有遮盖 -->
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

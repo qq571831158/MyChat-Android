@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">微信</string>
+    <string name="tab_weixin">微信</string>
+    <string name="tab_contact">联系人</string>
+    <string name="tab_discover">发现</string>
+    <string name="tab_profile">我</string>
+    <item name="tag_first" type="id"></item>
+    <item name="tag_second" type="id"></item>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

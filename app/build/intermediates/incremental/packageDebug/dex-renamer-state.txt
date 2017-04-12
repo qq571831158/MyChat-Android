@@ -1,0 +1,7 @@
+#Wed Apr 12 11:00:28 CST 2017
+base.0=/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cca276d96ed53588cec699d47872e1ee8ba154d3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_718c835c568ea431ff87ab0f9f452c5a8a4b5482/classes.dex
+base.1=/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_718c835c568ea431ff87ab0f9f452c5a8a4b5482
+file.0=/Users/apple/我的文档/Projects/AndroidStudioProjects/MyChatQQ/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cca276d96ed53588cec699d47872e1ee8ba154d3/classes.dex
